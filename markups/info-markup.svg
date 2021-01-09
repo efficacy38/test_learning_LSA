@@ -66,7 +66,7 @@
                         <g>
                         </g>
                     </svg>
-                    <span class="message"><em>this is not my code!!</em><br/>
+                    <span class="message"><b>this is not my code!!</b><br/>
 			ref from https://github.com/tensorflow/tfjs-models/tree/master/speech-commands/training/browser-fft<br/>
 			however i will add some comment to make u guys more easily use this traing python file~~
 			</span>
