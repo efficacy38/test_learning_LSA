@@ -2,7 +2,7 @@
 [ref from https://github.com/tensorflow/tfjs-models/tree/master/speech-commands/training/browser-fft
 it is not my code, howerver i add some comment to make u easily understand it.](./markups/info-markup.svg)
 
-
+<img src="./markups/info-markup.svg">12312312</img>
 This directory contains two example notebooks. They demonstrate how to train
 custom TensorFlow.js audio models and deploy them for inference. The models
 trained this way expect inputs to be spectrograms in a format consistent with
