@@ -1,6 +1,6 @@
 # Training a TensorFlow.js model for Speech Commands Using Browser FFT
 
-::::: warning
+:::::  warning
 ref from https://github.com/tensorflow/tfjs-models/tree/master/speech-commands/training/browser-fft
 it is not my code, howerver i add some comment to make u easily understand it.
 :::::
