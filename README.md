@@ -1,5 +1,5 @@
 # Training a TensorFlow.js model for Speech Commands Using Browser FFT
-<img src="./markups/info-markup.svg"></img>
+<img src="./markups/info-markup.svg"></img><br>
 This directory contains two example notebooks. They demonstrate how to train
 custom TensorFlow.js audio models and deploy them for inference. The models
 trained this way expect inputs to be spectrograms in a format consistent with
