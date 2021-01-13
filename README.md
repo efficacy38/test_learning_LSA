@@ -74,7 +74,7 @@ jupyter notebook
           print(word_dir)
           resample_wavs(word_dir, target_sample_rate=TARGET_SAMPLE_RATE)
     ```
-    第 33 行裡面我的設定是在 `/tmp/speech_commands_v0.02` 底下任何有檔名包含 zh 都會被 resampling 和變成之後訓練的 data set，所以請把你的因檔按照你想讓他辨識出的名子設定並加個zh後墜吧~
+    第 33 行裡面我的設定是在 `/tmp/speech_commands_v0.02` 底下任何有檔名包含 zh 都會被 resampling 和變成之後訓練的 data set，所以請把你的音檔按照你想讓他辨識出的名子放在`/tmp/speech_commands_v0.02`並加個zh後墜，他就會在辨識的時候跑出你當初資料夾設定的名子~
 2. 當你一直按下一步案到最後，你就可以看到 train 好的 tfjs model 放在 /tmp/tfjs-model 把它整個上傳到 github 就完成了第二步了
 3. 設定 tfjs 語音辨識
     在`/dev_web/index.js`
