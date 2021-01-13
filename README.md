@@ -1,6 +1,5 @@
 # Training a TensorFlow.js model for Speech Commands Using Browser FFT
 <img src="./markups/info-markup.svg"></img><br>
-T# prepartion
 ## 安裝jupyter-notebook
 ### 使用 pip 安裝~~
 ```
