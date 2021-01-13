@@ -85,4 +85,4 @@ jupyter notebook
      await recognizer.ensureModelLoaded();
     }
     ```
-    在 app function 中 model.json，和 metadata.json 的部分可以透過上傳model.json, metadata.json,和 group1-shard2of2.bin... 到 github，並且用 github 右上角那個raw按鍵，顯示出只有文檔的網頁，複製連結並照著格式去打，應該就可以快樂的辨識囉
+    在 app function 中 model.json，和 metadata.json 的部分可以透過上傳model.json, metadata.json,和 group1-shard2of2.bin... 到 github，並且用 github 右上角那個raw按鍵，顯示出只有文檔的網頁，複製連結並照著格式去改完index.js，應該就可以打開 index.html 快樂的辨識囉
